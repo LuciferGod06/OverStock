@@ -14,7 +14,7 @@ Usage
 The Overstock Clone project aims to replicate the core functionality and design of the original Overstock.com website. It provides users with an online platform to browse and purchase a wide range of products, including furniture, home decor, electronics, clothing, and more. The project focuses on delivering a similar user experience and interface, allowing users to search for products, view detailed product information, add items to their cart, and proceed to checkout.
 
 # Images 
-![image](https://github.com/divyam751/SoloProjects/assets/125983433/6846dcf1-0b5b-4b60-aea7-a6091dede8fb)
+![image](C:\Users\intel\Desktop\clones\OverStock\website photos\home.jpg)
 ![image](https://github.com/divyam751/SoloProjects/assets/125983433/9a44e308-9e62-490f-bb8c-23d38f206045)
 ![image](https://github.com/divyam751/SoloProjects/assets/125983433/a4cbc9ad-5943-4be7-9742-d0e2661c9b07)
 ![image](https://github.com/divyam751/SoloProjects/assets/125983433/9defd098-9dbd-4a10-b7bf-bd66f1b10f34)
