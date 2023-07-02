@@ -15,11 +15,16 @@ The Overstock Clone project aims to replicate the core functionality and design 
 
 # Images 
 <img src ="website photos\home.jpg">
-![image](website photos\home.jpg)
-![image](C:\Users\intel\Desktop\clones\OverStock\website photos\navbar.jpg)
-![image](C:\Users\intel\Desktop\clones\OverStock\website photos\productdetail.png)
-![image](C:\Users\intel\Desktop\clones\OverStock\website photos\productpage.png)
-![image](C:\Users\intel\Desktop\clones\OverStock\website photos\footer.png)
+Home UI
+<img src ="website photos\navbar.jpg">
+Navbar UI
+<img src ="website photos\productpage.png">
+Produt Page UI
+<img src ="website photos\productdetail.png">
+Product Detail UI
+<img src ="website photos\footer.png">
+Footer UI
+
 
 # Features
 The Overstock Clone project includes the following key features:
