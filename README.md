@@ -15,11 +15,10 @@ The Overstock Clone project aims to replicate the core functionality and design 
 
 # Images 
 ![image](C:\Users\intel\Desktop\clones\OverStock\website photos\home.jpg)
-![image](https://github.com/divyam751/SoloProjects/assets/125983433/9a44e308-9e62-490f-bb8c-23d38f206045)
-![image](https://github.com/divyam751/SoloProjects/assets/125983433/a4cbc9ad-5943-4be7-9742-d0e2661c9b07)
-![image](https://github.com/divyam751/SoloProjects/assets/125983433/9defd098-9dbd-4a10-b7bf-bd66f1b10f34)
-![image](https://github.com/divyam751/SoloProjects/assets/125983433/215b27f3-7673-4f7b-9a4c-ce6671f0e146)
-![image](https://github.com/divyam751/SoloProjects/assets/125983433/99a441be-d8d0-41a0-9d8d-55a7d6873e79)
+![image](C:\Users\intel\Desktop\clones\OverStock\website photos\navbar.jpg)
+![image](C:\Users\intel\Desktop\clones\OverStock\website photos\productdetail.png)
+![image](C:\Users\intel\Desktop\clones\OverStock\website photos\productpage.png)
+![image](C:\Users\intel\Desktop\clones\OverStock\website photos\footer.png)
 
 # Features
 The Overstock Clone project includes the following key features:
