@@ -15,14 +15,23 @@ The Overstock Clone project aims to replicate the core functionality and design 
 
 # Images 
 <img src ="website photos\home.jpg">
+
 Home UI
+
 <img src ="website photos\navbar.jpg">
+
 Navbar UI
+
 <img src ="website photos\productpage.png">
+
 Produt Page UI
+
 <img src ="website photos\productdetail.png">
+
 Product Detail UI
+
 <img src ="website photos\footer.png">
+
 Footer UI
 
 
